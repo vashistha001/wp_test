@@ -1,0 +1,5 @@
+# Ignore
+db_data
+
+# Allow
+! db_data/text
